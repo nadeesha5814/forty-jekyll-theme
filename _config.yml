@@ -6,12 +6,10 @@ description: Exporting best quality food products around the world
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
-street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
-zip_code: 55555
+street_address: 112, Shramadana Mawatha, Bollatha
+city: Ganemulla
 country: Sri Lanka
-phone: +9477391111111
+phone: +94(77)2384200
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
