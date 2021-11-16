@@ -15,6 +15,9 @@ phone: +94(77)2384200
 tiles-source: pages # accepts "posts" or "pages"
 tiles-count: 6
 
+google_analytics: G-7WX18Y5EDE
+
+
 # social settings (key must match name of font awesome icon)
 # see https://fontawesome.com/icons?d=gallery&p=2&s=brands
 # Icons are not shown if value is empty
